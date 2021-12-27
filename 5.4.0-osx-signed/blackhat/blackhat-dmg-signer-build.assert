@@ -1,11 +1,11 @@
 --- !!omap
-- out_manifest: 'dcb8fe66ec9fd9388af97afb193973ef6bd8be1e0b36bae518f12184bac7ea35  blackhat-osx-signed.dmg
+- out_manifest: '9198520422ba9d9f9b91e077456669373f2965d1a3d22754136eeb1714713169  blackhat-osx-signed.dmg
 
     '
 - in_manifest: |-
     773699aff25c6ef4cd7520bd99f5b6e6a349e91c5a2b6b75183cc92da82841ca  blackhat-dmg-signer-desc.yml
     9b45514e3f8b618f7ec4d81dc7d63b5742a4826dda10b8e33f555773b4bbe482  blackhat-osx-unsigned.tar.gz
-    git:c02bc87b2cc24ccef440a157eb407b4e02f8b9e1 signature
+    git:c2f23dd3fe02b20704b0d80c5a36b43a897f9dcd signature
 - base_manifests: !!omap
   - bionic-amd64: |
       d451eb00b2d0e2940e26028ea9f2fb1be4f5109010e997acfb2c46229ebd9ebe  adduser_3.116ubuntu1_all.deb

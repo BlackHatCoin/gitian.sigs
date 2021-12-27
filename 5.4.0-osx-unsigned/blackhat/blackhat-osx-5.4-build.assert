@@ -425,7 +425,7 @@
     feac42bfc2e1ea699b192dee33cc65cdfb26da91a923c07e2720afff2ac29a19  rust-std-1.54.0-x86_64-unknown-linux-gnu.tar.xz
     76b3280cd4e19e5179defa23fb594a9dd32643b0c80d774bd3108361d94fb46d  v1.3.0.tar.gz
     421e6d7586d1f155c7db3e7da01ca0dacc9649a509a253ad7077b70174426499  v2.2.0.tar.gz
-    15432c46405d3a61fd706d74619e8155f7dc5327e95a9bca9f064c1d18bde9ca  vendored-crates.tar.gz
+    df697ecf07739efc3ded88794bb244f6ccd6557e7ac52052ae8c105ac1fc2a39  vendored-crates.tar.gz
     7ef40ddd855b750bc597d2a435da21e55e502a0fefa85b274f2c922800baaf05  xcb-proto-1.10.tar.bz2
     636162c1759805a5a0114a369dffdeccb8af8c859ef6e1445f26a4e6e046514f  xproto-7.0.26.tar.bz2
     bcbabe1e2c7d0eec4ed612e10b94b112dd5f06fcefa994a0c79a45d835cd21eb  zeromq-4.3.1.tar.gz
